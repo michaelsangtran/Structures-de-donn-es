@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <segment inter_1="1" inter_2="2" nom_rue="Saint-Catherine St W." longueur="44"/>
+    <segment inter_1="2" inter_2="3" nom_rue="Saint-Catherine St W." longueur="64"/>
+    <segment inter_1="3" inter_2="4" nom_rue="Saint-Catherine St W." longueur="120"/>
+    <segment inter_1="4" inter_2="5" nom_rue="Saint-Catherine St W." longueur="84"/>
+    <segment inter_1="6" inter_2="7" nom_rue="Mayor St" longueur="64"/>
+    <segment inter_1="7" inter_2="8" nom_rue="Mayor St" longueur="117"/>
+    <segment inter_1="8" inter_2="9" nom_rue="Mayor St" longueur="84"/>
+    <segment inter_1="10" inter_2="11" nom_rue="Boulevard de Maisonneuve O" longueur="54"/>
+    <segment inter_1="11" inter_2="12" nom_rue="Boulevard de Maisonneuve O" longueur="62"/>
+    <segment inter_1="12" inter_2="13" nom_rue="Boulevard de Maisonneuve O" longueur="199"/>
+    <segment inter_1="14" inter_2="15" nom_rue="Avenue du Président-Kennedy" longueur="113"/>
+    <segment inter_1="15" inter_2="0" nom_rue="Avenue du Président-Kennedy" longueur="199"/>
+    <segment inter_1="1" inter_2="10" nom_rue="Jeanne Mance St" longueur="204"/>
+    <segment inter_1="10" inter_2="14" nom_rue="Jeanne Mance St" longueur="36"/>
+    <segment inter_1="2" inter_2="6" nom_rue="Rue Balmoral" longueur="105"/>
+    <segment inter_1="6" inter_2="11" nom_rue="Rue Balmoral" longueur="87"/>
+    <segment inter_1="3" inter_2="7" nom_rue="Rue de Bleury" longueur="108"/>
+    <segment inter_1="7" inter_2="12" nom_rue="Rue de Bleury" longueur="73"/>
+    <segment inter_1="12" inter_2="15" nom_rue="Rue de Bleury" longueur="57"/>
+    <segment inter_1="4" inter_2="8" nom_rue="St Alexander St" longueur="113"/>
+    <segment inter_1="5" inter_2="9" nom_rue="City Councillors St" longueur="118"/>
+    <segment inter_1="9" inter_2="13" nom_rue="City Councillors St" longueur="72"/>
+    <segment inter_1="13" inter_2="0" nom_rue="City Councillors St" longueur="62"/>
+</list>
